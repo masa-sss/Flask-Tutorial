@@ -1,2 +1,2 @@
 # Flask-Tutorial
-Sam[le
+Playing around wiht the Flask tutorial to learn about web technologies.
